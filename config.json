@@ -1,0 +1,10 @@
+{
+    "databaseMYSQL": {
+        "host": "192.168.196.30",
+        "port": "3306",
+        "user": "writer",
+        "password": "Wr1t3r#121",
+        "database": "ds",
+        "connectionLimit": 1000
+    }
+}
