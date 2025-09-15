@@ -38,5 +38,5 @@ The backend provides secure APIs for employee login, attendance marking, leave m
 
 ---
 
-## 📂 Project Structure
+
 
